@@ -1,3 +1,4 @@
 .gitattributes !filter !diff
 stories/** filter=git-crypt diff=git-crypt
 notes/m.md filter=git-crypt diff=git-crypt
+private.txt filter=git-crypt diff=git-crypt
